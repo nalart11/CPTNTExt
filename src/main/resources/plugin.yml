@@ -1,0 +1,4 @@
+name: CPTNTExt
+version: '1.0-SNAPSHOT'
+main: org.makeacake.CPTNTExt
+api-version: '1.21'
